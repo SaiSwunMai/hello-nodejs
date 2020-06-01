@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "DO101-apps",
+			"path": "DO101-apps"
+		},
+		{
+			"name": "DO101-apps",
+			"path": "..\\DO101-apps"
+		},
+		{
+			"name": "DO101-apps",
+			"path": "d:\\DO101-apps"
+		}
+	]
+}
